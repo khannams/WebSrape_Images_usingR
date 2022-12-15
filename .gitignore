@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 #Data files
 .csv
+.xlsx
+.jpg
+.png
