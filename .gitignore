@@ -39,7 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 #Data files
-.csv
-.xlsx
-.jpg
-.png
+*.csv
+*.xlsx
+*.jpg
+*.png
